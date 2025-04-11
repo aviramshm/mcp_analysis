@@ -12,7 +12,7 @@ This project is a tool designed to scan a list of GitHub repositories for secret
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/aviramshm/mcp_analysis.git
    cd your-repo
    ```
 
